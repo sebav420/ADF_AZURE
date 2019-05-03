@@ -9,6 +9,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "output.csv",
 				"folderPath": "output",
 				"container": "adftutorial"
 			},
