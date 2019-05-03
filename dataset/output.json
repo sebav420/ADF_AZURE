@@ -9,7 +9,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "fred.csv",
 				"folderPath": "output",
 				"container": "adftutorial"
 			},
